@@ -18,7 +18,7 @@ end
 
 def literal_aoh
   lit_aoh = [ 
-    {:name => , :occupation => }
+    {:name => "Don Gately" , :occupation => "Live-in Staff" }
     {:name => , :occupation => }
     {:name => , :occupation => }
     {:name => , :occupation => }
